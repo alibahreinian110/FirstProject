@@ -1,6 +1,11 @@
 #include <iostream>
 using namespace std;
 
+int b()
+{
+	return 6;
+}
+
 int a()
 {
 	return 5;
