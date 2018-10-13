@@ -6,6 +6,11 @@ int c()
 	return 7;
 }
 
+int b()
+{
+	return 6;
+}
+
 int a()
 {
 	return 5;
