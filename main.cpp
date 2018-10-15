@@ -18,7 +18,7 @@ int a()
 
 int main()
 {
-	cout<<"salam ";
+	cout<<"salam 1";
 	cout<<"Mahdi";
 	return 0;
 }
